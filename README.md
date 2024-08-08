@@ -1,10 +1,19 @@
-# AngularCrash
+# Angular Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+
+## Author
+Olli Kämäräinen
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Backend setup
+
+For testing and demo purposes use `npm run server` which will use generic json-server and db.json-file as a database
+
+For separate Mondodb backend, please look at the backend repo in: [Angular Demo Backend](https://github.com/ollipk/angular-demo-backend)
 
 ## Code scaffolding
 
